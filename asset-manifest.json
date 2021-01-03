@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/grid-react-app/static/css/main.b325f985.chunk.css",
+    "main.js": "/grid-react-app/static/js/main.cb776e8d.chunk.js",
+    "main.js.map": "/grid-react-app/static/js/main.cb776e8d.chunk.js.map",
+    "runtime-main.js": "/grid-react-app/static/js/runtime-main.8d1d2570.js",
+    "runtime-main.js.map": "/grid-react-app/static/js/runtime-main.8d1d2570.js.map",
+    "static/js/2.f772eb81.chunk.js": "/grid-react-app/static/js/2.f772eb81.chunk.js",
+    "static/js/2.f772eb81.chunk.js.map": "/grid-react-app/static/js/2.f772eb81.chunk.js.map",
+    "static/js/3.5a511e5b.chunk.js": "/grid-react-app/static/js/3.5a511e5b.chunk.js",
+    "static/js/3.5a511e5b.chunk.js.map": "/grid-react-app/static/js/3.5a511e5b.chunk.js.map",
+    "index.html": "/grid-react-app/index.html",
+    "static/css/main.b325f985.chunk.css.map": "/grid-react-app/static/css/main.b325f985.chunk.css.map",
+    "static/js/2.f772eb81.chunk.js.LICENSE.txt": "/grid-react-app/static/js/2.f772eb81.chunk.js.LICENSE.txt",
+    "static/media/email-white.e7d51381.cec04723.svg": "/grid-react-app/static/media/email-white.e7d51381.cec04723.svg",
+    "static/media/location-pin.de95721a.f0f5c219.svg": "/grid-react-app/static/media/location-pin.de95721a.f0f5c219.svg",
+    "static/media/logo.6ce24c58.svg": "/grid-react-app/static/media/logo.6ce24c58.svg",
+    "static/media/twitter-white-icon.ea27ab22.4ef5ec90.svg": "/grid-react-app/static/media/twitter-white-icon.ea27ab22.4ef5ec90.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d1d2570.js",
+    "static/js/2.f772eb81.chunk.js",
+    "static/css/main.b325f985.chunk.css",
+    "static/js/main.cb776e8d.chunk.js"
+  ]
+}
